@@ -1,3 +1,6 @@
 [submodule "gb-test-roms"]
 	path = gb-test-roms
 	url = git@github.com:retrio/gb-test-roms.git
+[submodule "gb-hello-world"]
+	path = gb-hello-world
+	url = git@github.com:dusterherz/gb-hello-world.git
